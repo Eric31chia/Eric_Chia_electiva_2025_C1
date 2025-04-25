@@ -1,5 +1,10 @@
 {
     "idf.espIdfPathWin": "c:\\Esp32_Idf\\Espressif\\frameworks\\esp-idf-v5.3.2",
     "idf.toolsPathWin": "c:\\Esp32_Idf\\Espressif\\tools",
-    "idf.pythonInstallPath": "c:\\Esp32_Idf\\Espressif\\tools\\tools\\idf-python\\3.11.2\\python.exe"
+    "idf.pythonInstallPath": "c:\\Esp32_Idf\\Espressif\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+    "C_Cpp.default.compilerPath": "c:/Esp32_Idf/Prueba_blink/New project led/sample_project/main/CMakeLists.txt",
+    "idf.flashType": "UART",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32"
+    }
 }
